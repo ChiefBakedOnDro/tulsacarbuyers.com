@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://tulsacarbuyers.com/index.html</loc>
+    <lastmod>2018-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tulsacarbuyers.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tulsacarbuyers.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://tulsacarbuyers.com/images/phone-th.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tulsacarbuyers.com/images/price-icon-20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tulsacarbuyers.com/images/img_200402.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tulsacarbuyers.com/images/car%20buyers%20logo-recovered.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tulsacarbuyers.com/images/car%20buyers%20logo-recovered443x170.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tulsacarbuyers.com/home-copy.html</loc>
+    <lastmod>2018-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tulsacarbuyers.com/phone/home-copy.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tulsacarbuyers.com/tablet/home-copy.html"/>
+  </url>
+</urlset>

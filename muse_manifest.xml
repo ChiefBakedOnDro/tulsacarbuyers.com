@@ -1,0 +1,176 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tulsacarbuyers.com" resolutions="1x" timestamp="1519885632507">
+  <folder name="css">
+    <file name="site_global.css" crc="3833515168"/>
+    <file name="master_a-master.css" crc="4003866705" ref="index:home-copy"/>
+    <file name="index.css" crc="162293821" ref="index"/>
+    <file name="home-copy.css" crc="3993098002" ref="home-copy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home-copy:tablet>index:tablet>home-copy:index:home-copy"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>home-copy:tablet>index:tablet>home-copy:index:home-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home-copy:tablet>index:tablet>home-copy:index:home-copy"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>home-copy:tablet>index:tablet>home-copy:index:home-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>home-copy:tablet>index:tablet>home-copy:index:home-copy"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u906.php" crc="205571243" ref="phone>index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>home-copy:tablet>index:tablet>home-copy:index:home-copy"/>
+    <file name="form-u843.php" crc="388494934" ref="tablet>index"/>
+    <file name="form-u356.php" crc="385771788" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="دولارررررررررررررررر-1-u724-fr.png" crc="395347023" ref="phone>index"/>
+    <file name="car buyers logo-recovered381x146.png" crc="453306889" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u774-6.png" crc="4117770569" ref="phone>index"/>
+    <file name="u777-5.png" crc="4019568822" ref="phone>index"/>
+    <file name="u792-4.png" crc="405462773" ref="phone>index"/>
+    <file name="u798-4.png" crc="14384802" ref="phone>index"/>
+    <file name="u804-4.png" crc="337124167" ref="phone>index"/>
+    <file name="u810-4.png" crc="4248990530" ref="phone>index"/>
+    <file name="u816-4.png" crc="312408983" ref="phone>index"/>
+    <file name="u972-4.png" crc="81483397" ref="phone>index"/>
+    <file name="phone-th.png" crc="180130780" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u978-4.png" crc="4107261427" ref="phone>index"/>
+    <file name="price-icon-20.png" crc="4177958671" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u987-4.png" crc="4063066281" ref="phone>index"/>
+    <file name="img_200402.png" crc="70755059" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u996-4.png" crc="4148060501" ref="phone>index"/>
+    <file name="junk-car-buyer-u822-fr.jpg" crc="4113210771" ref="phone>index"/>
+    <file name="u828-4.png" crc="4111045192" ref="phone>index"/>
+    <file name="u834-5.png" crc="3920133041" ref="phone>index"/>
+    <file name="u840-4.png" crc="57057214" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="u914.png" crc="4049709466" ref="phone>index"/>
+    <file name="u914-ferr.png" crc="3864563467" ref="phone>index"/>
+    <file name="u925.png" crc="4083930865" ref="phone>index"/>
+    <file name="u925-ferr.png" crc="382159559" ref="phone>index"/>
+    <file name="u908.png" crc="440182370" ref="phone>index"/>
+    <file name="u908-ferr.png" crc="3891387513" ref="phone>index"/>
+    <file name="u922.png" crc="3904059820" ref="phone>index"/>
+    <file name="u922-ferr.png" crc="325408783" ref="phone>index"/>
+    <file name="636037986432660283962764687_awesome road-u1062-fr.png" crc="258981519" ref="phone>index:tablet>index:index"/>
+    <file name="u1082-7.png" crc="226061655" ref="phone>index:phone>home-copy"/>
+    <file name="car buyers logo-recovered154x59.png" crc="79921714" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="دولارررررررررررررررر-1-u721-fr.png" crc="4177658812" ref="tablet>index"/>
+    <file name="car buyers logo-recovered765x294.png" crc="4102480720" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u771-6.png" crc="4254827560" ref="tablet>index"/>
+    <file name="u780-5.png" crc="3799634844" ref="tablet>index"/>
+    <file name="u783-4.png" crc="464769763" ref="tablet>index"/>
+    <file name="u789-4.png" crc="366426414" ref="tablet>index"/>
+    <file name="u795-4.png" crc="4266035841" ref="tablet>index"/>
+    <file name="u801-4.png" crc="3760678020" ref="tablet>index"/>
+    <file name="u807-4.png" crc="4263972106" ref="tablet>index"/>
+    <file name="u813-4.png" crc="191083024" ref="tablet>index"/>
+    <file name="u1050-4.png" crc="4263276425" ref="tablet>index"/>
+    <file name="u1053-4.png" crc="3932594182" ref="tablet>index"/>
+    <file name="u969-4.png" crc="4168050336" ref="tablet>index"/>
+    <file name="u975-4.png" crc="4274504472" ref="tablet>index"/>
+    <file name="u981-4.png" crc="85654666" ref="tablet>index"/>
+    <file name="u984-4.png" crc="411273847" ref="tablet>index"/>
+    <file name="u990-6.png" crc="3901501079" ref="tablet>index"/>
+    <file name="u993-4.png" crc="209597109" ref="tablet>index"/>
+    <file name="u999-4.png" crc="502497853" ref="tablet>index"/>
+    <file name="junk-car-buyer.jpg" crc="4290918244" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u825-4.png" crc="519398551" ref="tablet>index"/>
+    <file name="u831-5.png" crc="3859363198" ref="tablet>index"/>
+    <file name="u837-4.png" crc="348458581" ref="tablet>index"/>
+    <file name="u855.png" crc="4049709466" ref="tablet>index"/>
+    <file name="u855-ferr.png" crc="3864563467" ref="tablet>index"/>
+    <file name="u860.png" crc="4083930865" ref="tablet>index"/>
+    <file name="u860-ferr.png" crc="382159559" ref="tablet>index"/>
+    <file name="u852.png" crc="440182370" ref="tablet>index"/>
+    <file name="u852-ferr.png" crc="3891387513" ref="tablet>index"/>
+    <file name="u845.png" crc="3904059820" ref="tablet>index"/>
+    <file name="u845-ferr.png" crc="325408783" ref="tablet>index"/>
+    <file name="u1056-23.png" crc="452142162" ref="tablet>index"/>
+    <file name="u1079-7.png" crc="309040437" ref="tablet>index:tablet>home-copy"/>
+    <file name="car buyers logo-recovered246x94.png" crc="121937233" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="دولارررررررررررررررر-1-u160-fr.png" crc="4208992512" ref="index"/>
+    <file name="car buyers logo-recovered.png" crc="506421575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u635-6.png" crc="4254827560" ref="index"/>
+    <file name="u638-5.png" crc="3799634844" ref="index"/>
+    <file name="u186-4.png" crc="4168050336" ref="index"/>
+    <file name="u195-4.png" crc="4175657961" ref="index"/>
+    <file name="u182-4.png" crc="3930340301" ref="index"/>
+    <file name="u199-4.png" crc="90476549" ref="index"/>
+    <file name="u579-6.png" crc="4187858523" ref="index"/>
+    <file name="u202-4.png" crc="262530513" ref="index"/>
+    <file name="u214-4.png" crc="3958803434" ref="index"/>
+    <file name="u626-5.png" crc="32083714" ref="index"/>
+    <file name="u228-4.png" crc="350710061" ref="index"/>
+    <file name="u448-4.png" crc="3873614854" ref="index"/>
+    <file name="u367.png" crc="4049709466" ref="index"/>
+    <file name="u367-ferr.png" crc="3864563467" ref="index"/>
+    <file name="u372.png" crc="4083930865" ref="index"/>
+    <file name="u372-ferr.png" crc="382159559" ref="index"/>
+    <file name="u360.png" crc="440182370" ref="index"/>
+    <file name="u360-ferr.png" crc="3891387513" ref="index"/>
+    <file name="u655.png" crc="3904059820" ref="index"/>
+    <file name="u655-ferr.png" crc="325408783" ref="index"/>
+    <file name="u594-4.png" crc="3886755297" ref="index"/>
+    <file name="u597-4.png" crc="366426414" ref="index"/>
+    <file name="u582-4.png" crc="227198450" ref="index"/>
+    <file name="u585-4.png" crc="4282293986" ref="index"/>
+    <file name="u588-4.png" crc="3938641290" ref="index"/>
+    <file name="u591-4.png" crc="1934429" ref="index"/>
+    <file name="u600-4.png" crc="4219608191" ref="index"/>
+    <file name="u603-4.png" crc="321519065" ref="index"/>
+    <file name="u606-4.png" crc="302478208" ref="index"/>
+    <file name="u620-4.png" crc="3965523450" ref="index"/>
+    <file name="u623-4.png" crc="18726247" ref="index"/>
+    <file name="u632-23.png" crc="4030157509" ref="index"/>
+    <file name="u651-7.png" crc="184321611" ref="index:home-copy"/>
+    <file name="u648-11.png" crc="4293544533" ref="index:home-copy"/>
+    <file name="car buyers logo-recovered443x170.png" crc="3983278634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="350000687" ref="tablet>index:tablet>home-copy"/>
+      <file name="index.css" crc="471053788" ref="tablet>index"/>
+      <file name="home-copy.css" crc="135712825" ref="tablet>home-copy"/>
+    </folder>
+    <file name="index.html" crc="33201359" seo="true" mt="1519881665575" redirect="true"/>
+    <file name="home-copy.html" crc="4031936190" seo="true" mt="1519880960178" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4007663863" ref="phone>home-copy:phone>index"/>
+      <file name="home-copy.css" crc="4084173496" ref="phone>home-copy"/>
+      <file name="index.css" crc="3900637335" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="455113911" seo="true" mt="1519881589390" redirect="true"/>
+    <file name="home-copy.html" crc="214548744" seo="true" mt="1519881172995" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3689329" seo="true" mt="1519881125431" redirect="true"/>
+  <file name="home-copy.html" crc="3982445056" seo="true" mt="1519876396222" redirect="true"/>
+</manifest>
